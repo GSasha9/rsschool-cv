@@ -3,7 +3,7 @@
   
 * e-mail: sasha.hurbnva@gmail.com
 * skype: sashar49
-* 
+
     
 ## About me:
 For three years I worked in the insurance industry.
