@@ -12,11 +12,15 @@ I worked in the insurance industry for three years. Currently, I am on maternity
 HTML , CSS 
 
 ## Education:
-*2010-2014 - Belarusian State University, specialty: management
-*03.2023- untill now - Belarusian State University, specialty: web-design and computer graphics
+2010-2014 - Belarusian State University, specialty: management
+
+
+03.2023- untill now - Belarusian State University, specialty: web-design and computer graphics
 
 ## Languages:
-*English: Intermediate
-*Russian: Native
+English: Intermediate
+
+
+Russian: Native
 
   
