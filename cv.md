@@ -11,7 +11,7 @@ Now I am on maternity leave and at the same time receiving additional education 
 I realized that I really like writing code for websites and I would like to gain as much knowledge as possible in this area 
 
 ## Skills: 
-HTML , CSS 
+HTML , CSS , Java Script
 
 ## Education:
 2010-2014 - Belarusian State University, specialty: management
