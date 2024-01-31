@@ -6,9 +6,8 @@
 
     
 ## About me:
-For three years I worked in the insurance industry.
-Now I am on maternity leave and at the same time receiving additional education in the specialty of web design and computer graphics. During the education, 
-I realized that I really like writing code for websites and I would like to gain as much knowledge as possible in this area 
+For eight years I worked in the insurance industry.
+Now I am receiving additional education in the specialty of web design and computer graphics. During the education, I realized that I really like writing code for websites and I would like to gain as much knowledge as possible in this area 
 
 ## Skills: 
 HTML , CSS , Java Script
