@@ -1,0 +1,12 @@
+:root{
+
+    /*  COLORS  */
+    --white: #fff;
+    --background-body: #E3C4FA;
+    --purple: #A447E9;
+
+    /*  FONTS  */
+    --workSans: "Work Sans", sans-serif;
+    --regular: 400;
+    --bold: 700;
+}
